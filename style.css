@@ -1,0 +1,15 @@
+h1 {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    background-color: rgba(219, 212, 132, 0.76);
+    height: 50px;
+    display: flow-root; 
+}
+
+h3 {
+    font-family: 'Georama', sans-serif;
+    display: inline-flex;
+}
+
+.table {
+    background-color: rgb(243, 243, 236);
+}
